@@ -5,6 +5,14 @@
   box-sizing: border-box;
 }
 
+h1 {
+  font-size:2em;
+}
+
+h2 {
+  font-size:1.5em;
+}
+
 body {
   font-family: Arial, sans-serif;
 }
@@ -72,7 +80,7 @@ body {
 }
 
 .description {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 
 .image-links {
@@ -171,7 +179,7 @@ body {
 
 .personal-info p {
   margin: 15px 0; /* Space between personal details */
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   color: #333;
 }
 
